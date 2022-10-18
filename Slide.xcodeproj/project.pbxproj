@@ -14,6 +14,7 @@
 		39A60A9A28FED58F00FDA033 /* SlideTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A60A9928FED58F00FDA033 /* SlideTests.swift */; };
 		39A60AA428FED58F00FDA033 /* SlideUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A60AA328FED58F00FDA033 /* SlideUITests.swift */; };
 		39A60AA628FED58F00FDA033 /* SlideUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A60AA528FED58F00FDA033 /* SlideUITestsLaunchTests.swift */; };
+		39A60AB328FED75A00FDA033 /* GenreData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A60AB228FED75A00FDA033 /* GenreData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		39A60A9F28FED58F00FDA033 /* SlideUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SlideUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		39A60AA328FED58F00FDA033 /* SlideUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideUITests.swift; sourceTree = "<group>"; };
 		39A60AA528FED58F00FDA033 /* SlideUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		39A60AB228FED75A00FDA033 /* GenreData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenreData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				39A60A8828FED58E00FDA033 /* SlideApp.swift */,
 				39A60A8A28FED58E00FDA033 /* ContentView.swift */,
+				39A60AB228FED75A00FDA033 /* GenreData.swift */,
 				39A60A8C28FED58F00FDA033 /* Assets.xcassets */,
 				39A60A8E28FED58F00FDA033 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				39A60A8B28FED58E00FDA033 /* ContentView.swift in Sources */,
 				39A60A8928FED58E00FDA033 /* SlideApp.swift in Sources */,
+				39A60AB328FED75A00FDA033 /* GenreData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
